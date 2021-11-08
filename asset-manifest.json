@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://and27.github.io/skis/static/css/main.fb92dbb9.chunk.css",
-    "main.js": "https://and27.github.io/skis/static/js/main.aaabe6aa.chunk.js",
-    "main.js.map": "https://and27.github.io/skis/static/js/main.aaabe6aa.chunk.js.map",
+    "main.js": "https://and27.github.io/skis/static/js/main.a35fa2e8.chunk.js",
+    "main.js.map": "https://and27.github.io/skis/static/js/main.a35fa2e8.chunk.js.map",
     "runtime-main.js": "https://and27.github.io/skis/static/js/runtime-main.7634d80a.js",
     "runtime-main.js.map": "https://and27.github.io/skis/static/js/runtime-main.7634d80a.js.map",
     "static/js/2.323ee85c.chunk.js": "https://and27.github.io/skis/static/js/2.323ee85c.chunk.js",
@@ -16,20 +16,26 @@
     "static/media/flora1.b34e906e.png": "https://and27.github.io/skis/static/media/flora1.b34e906e.png",
     "static/media/flora2.85f531a4.png": "https://and27.github.io/skis/static/media/flora2.85f531a4.png",
     "static/media/home.c487b9d1.png": "https://and27.github.io/skis/static/media/home.c487b9d1.png",
-    "static/media/lag1.63f36a9f.png": "https://and27.github.io/skis/static/media/lag1.63f36a9f.png",
-    "static/media/lag2.c697320d.png": "https://and27.github.io/skis/static/media/lag2.c697320d.png",
+    "static/media/laga_dicrus.49247e2d.png": "https://and27.github.io/skis/static/media/laga_dicrus.49247e2d.png",
+    "static/media/laga_ecpleopus.7c7b3d3a.png": "https://and27.github.io/skis/static/media/laga_ecpleopus.7c7b3d3a.png",
+    "static/media/laga_fuscoauratus.66a37b8a.png": "https://and27.github.io/skis/static/media/laga_fuscoauratus.66a37b8a.png",
+    "static/media/laga_ortonii.8034b9fc.png": "https://and27.github.io/skis/static/media/laga_ortonii.8034b9fc.png",
     "static/media/logo.c0ff3e15.png": "https://and27.github.io/skis/static/media/logo.c0ff3e15.png",
     "static/media/map.409976cd.png": "https://and27.github.io/skis/static/media/map.409976cd.png",
     "static/media/others.2c03b538.webp": "https://and27.github.io/skis/static/media/others.2c03b538.webp",
     "static/media/rana.80676906.jpg": "https://and27.github.io/skis/static/media/rana.80676906.jpg",
+    "static/media/rana_bokermanni.ab5c83ec.png": "https://and27.github.io/skis/static/media/rana_bokermanni.ab5c83ec.png",
+    "static/media/rana_lacrimosus.73abedc8.png": "https://and27.github.io/skis/static/media/rana_lacrimosus.73abedc8.png",
     "static/media/rana_pristimantis.d9623f3e.png": "https://and27.github.io/skis/static/media/rana_pristimantis.d9623f3e.png",
-    "static/media/rana_pristimantis2.154a096a.png": "https://and27.github.io/skis/static/media/rana_pristimantis2.154a096a.png",
-    "static/media/serp.d75eae23.png": "https://and27.github.io/skis/static/media/serp.d75eae23.png"
+    "static/media/rana_punctata.efa28056.png": "https://and27.github.io/skis/static/media/rana_punctata.efa28056.png",
+    "static/media/serp_guentheri.eec82de5.png": "https://and27.github.io/skis/static/media/serp_guentheri.eec82de5.png",
+    "static/media/serp_hyoprora.939e497b.png": "https://and27.github.io/skis/static/media/serp_hyoprora.939e497b.png",
+    "static/media/serp_ornatisimus.d75eae23.png": "https://and27.github.io/skis/static/media/serp_ornatisimus.d75eae23.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7634d80a.js",
     "static/js/2.323ee85c.chunk.js",
     "static/css/main.fb92dbb9.chunk.css",
-    "static/js/main.aaabe6aa.chunk.js"
+    "static/js/main.a35fa2e8.chunk.js"
   ]
 }
